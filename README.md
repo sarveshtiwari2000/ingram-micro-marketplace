@@ -1,2 +1,2 @@
-# Spring Boot Marketplace Cart
+# Spring Boot Ingram Micro Marketplace Cart
  Web App
